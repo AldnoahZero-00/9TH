@@ -43,11 +43,12 @@ body {
   position: absolute;
   backface-visibility: hidden;
   margin: 10px;
+  
+ 
 }
 
 .front {
   background-image: url('322572757_2398457173648026_1459677375527960526_n.jpg');
-  background-repeat: no-repeat;
   background-size: 350px;
 }
 
